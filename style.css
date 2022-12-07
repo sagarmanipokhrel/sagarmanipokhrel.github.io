@@ -1,0 +1,86 @@
+body
+{
+	font-family: 'Chilanka', cursive;
+	font-family: 'Fjalla One', sans-serif;
+	color: red;
+}
+
+.header
+{
+	height: 90vh;
+	width: 100%;
+	color:white;
+	background-image:url('project_pic/hh.jpg');
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+.h-100
+{
+	height: 100%;
+	width: 100%;
+}
+
+.btn
+{
+	border-radius: 5rem !important;
+	padding:0.15rem 2.00rem !important;
+}
+
+img
+{
+	border-radius: 50%;
+}
+
+.tech
+{
+	background-image:url('project_pic/jj.jpg');
+	background-attachment: fixed;
+	
+}
+
+.Exp
+{
+	background-image:url('project_pic/kk.jpg');
+	background-attachment: fixed;
+	background-size:cover;
+}
+
+.projects
+{
+background-image:url('project_pic/nn.jpg');
+background-attachment: fixed;
+background-size:cover;
+}
+
+footer
+{
+	color:white;
+	bottom:0px;
+	width:100%;
+	background:#111;
+}
+.main-content
+{
+	display:flex;
+}
+
+.main-content .box
+{
+	flex-basis:50%;
+	padding:10px 20px;
+}
+
+.t
+{
+	color:white;
+}
+
+.E
+{
+	color:white;
+}
+.pr
+{
+	color:white;
+}
